@@ -10,13 +10,21 @@ This project aims to develop a robust model to accurately classify diverse land 
 
 # Requirements 
 PIL 9.2.0
+
 cv2 4.7.0
+
 matplotlib 3.5.2
+
 numpy 1.21.5
+
 sklearn 1.0.2
+
 torch 1.8.1+cu111
+
 torchvision 0.9.1+cu101
+
 cuda V11.1
+
 shutil 11.0.0
 
 # Instruction on how to train/validate the model
